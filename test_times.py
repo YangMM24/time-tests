@@ -38,8 +38,8 @@ def input_error():
         time_range(large, short)
 
 if __name__ == "__main__":
-    #test_given_input()
+    test_given_input()
     #do_not_overlap()
     #both_contain_intervals()
     #test_same_time()
-    input_error()
+    #input_error()
